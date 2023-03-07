@@ -6,7 +6,37 @@ var emojiDictionary = {
   "😔": "sad",
   "🥡": "takeout box",
   "❤️": "love",
-  "😑": "annoyance"
+  "😑": "annoyance",
+  "😷": "face with mask",
+  "🤒": "face with thermometer",
+  "🤕": "head bandage",
+  "🤢": "nauseated",
+  "🤧": "sneezing",
+  "🥵": "hot face",
+  "🥶": "cold face",
+  "🥴": "woozy face",
+  "🤯": "head exploding",
+  "🥳": "partying face",
+  "😎": "smiling with sunglasses",
+  "🤓": "nerd face",
+  "🤬": "abusing face",
+  "😠": "angry face",
+  "😫": "irritated face",
+  "😡": "red hot angry face",
+  "🤠": "cowboy hat face",
+  "😲": "ashtonished",
+  "🐭": "mouse face",
+  "🐷": "pig face",
+  "🦁": "lion face",
+  "🐯": "tiger face",
+  "🐶": "dog face",
+  "🐱": "cat face",
+  "🔥": "fire",
+
+  "💛": "yellow heart",
+  "💚": "green heart",
+  "💙": "blue heart",
+  "💜": "purple heart
 };
 var emojisWeknow = Object.keys(emojiDictionary);
 
