@@ -36,7 +36,6 @@ var emojiDictionary = {
   "💛": "yellow heart",
   "💚": "green heart",
   "💙": "blue heart",
-  "💜": "purple heart
 };
 var emojisWeknow = Object.keys(emojiDictionary);
 
